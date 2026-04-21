@@ -1,0 +1,14 @@
+{
+  "name": "lorem-ipsum-pro",
+  "version": "1.0.0",
+  "description": "Professional dummy text generator with custom paragraphs, words, and HTML formatting options",
+  "main": "api/process.js",
+  "scripts": {
+    "dev": "node dev-server.js",
+    "vercel-build": "echo 'Build complete'"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

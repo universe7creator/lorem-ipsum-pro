@@ -1,0 +1,17 @@
+{
+  "name": "Lorem Ipsum Pro",
+  "slug": "lorem-ipsum-pro",
+  "tagline": "Professional dummy text generator with custom paragraphs, words, and HTML formatting options",
+  "description": "Professional dummy text generator with custom paragraphs, words, and HTML formatting options",
+  "price": "9",
+  "features": [],
+  "tech_stack": "Vercel + Node.js",
+  "status": "building",
+  "vercel_url": null,
+  "github_url": null,
+  "lemonsqueezy_checkout_url": null,
+  "lemonsqueezy_product_id": null,
+  "webhook_url": null,
+  "created_cycle": null,
+  "deployed_cycle": null
+}
